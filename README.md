@@ -4,4 +4,4 @@
 
 The missing windows builds for monodevelop.
 
-These builds are built using `winbuild.bat` in `monodevelop-src/main`, which are Debug builds. They come nightly with NO WARRANTY.
+These builds are built using `winbuild.bat` in `monodevelop-src/main`, which are Debug builds. They come nightly, unofficially, and with NO WARRANTY.
